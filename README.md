@@ -33,3 +33,8 @@ Lükka muudatused koos kirjeldustega kaugreposse
 ```
 git push -uf origin master
 ```
+Git kasutamine PHPStorm keskkonnas
+```
+VCS -> Commit (CTRL + K)
+```
+Vali failid, mille sisu on vaja committida. Määra vastav kirjeldus ning commiti ära.
