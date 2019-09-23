@@ -7,7 +7,7 @@ Antud kursuse raames omandatakse baasteadmised PHP keele alusel.
    * [git](https://git-scm.com/)
    
    ### Seadistamine
-   * PHP General Settings (line numbers, (soft) wrap
+   * PHP General Settings (line numbers, (soft) wrap)
    * [github.com](https://github.com/) konto loomine
    * [github.com](https://github.com/) repo loomine
    * Version Control (git, github)
