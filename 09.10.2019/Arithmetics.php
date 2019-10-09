@@ -8,7 +8,7 @@
     <title>Operators</title>
     <style>
         table, th, td {
-            border: 1px solid red;
+            border: 1px solid black;
             border-collapse: collapse;
         }
 
@@ -19,6 +19,10 @@
 
         th {
             background: hotpink;
+        }
+
+        tr:nth-child(even) {
+            background: #f4f4f4;
         }
     </style>
 </head>
