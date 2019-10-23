@@ -67,7 +67,6 @@ if (kontrolllause) {
 * else-if
 ```
 <?php
-<?php
 if (kontrolllause) {
 
 } else if (kontrolllause) {
@@ -75,6 +74,5 @@ if (kontrolllause) {
 } else {
 
 }
-?>
 ?>
 ```
