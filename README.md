@@ -38,3 +38,5 @@ Git kasutamine PHPStorm keskkonnas
 VCS -> Commit (CTRL + K)
 ```
 Vali failid, mille sisu on vaja committida. Määra vastav kirjeldus ning commiti ära.
+
+NB! Mõned tööd võib leida ka minu "kodune_pusimine" repo-s.
