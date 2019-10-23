@@ -22,7 +22,7 @@ round($muutujaNimi, täpsuseVäärtus);
 ```
 Loe rohkem: [https://www.php.net/manual/en/function.round.php](https://www.php.net/manual/en/function.round.php)
 
-##Input vastuvõtmine
+## Input vastuvõtmine
 ```
 <form action="phpfail.php" method="get">
     <input type="#" id="" name="mingisugune-name">
