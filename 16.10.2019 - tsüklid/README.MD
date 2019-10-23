@@ -23,7 +23,8 @@ while ($number < 5) {
 ?>
 ```
 
-## do-while loop - Teeb kõigepealt ühekorra tegevuse ära ja siis kontrollib alles, kas seda saab teha
+## do-while loop - teeb kõigepealt ühekorra tegevuse ära ja siis kontrollib alles, kas seda saab teha
+```
 <?php
 $number = 0
 
