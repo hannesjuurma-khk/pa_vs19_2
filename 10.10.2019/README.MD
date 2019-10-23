@@ -59,6 +59,7 @@ $x >= $y (false)
 if (kontrolllause) {
 
 } else {
+
 }
 ?>
 ```
@@ -70,7 +71,9 @@ if (kontrolllause) {
 if (kontrolllause) {
 
 } else if (kontrolllause) {
+
 } else {
+
 }
 ?>
 ?>
